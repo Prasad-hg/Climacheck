@@ -1,0 +1,22 @@
+.app-title {
+  text-align: center;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.footer {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 2rem;
+  color: #888;
+  padding: 10px 0;
+  border-top: 1px solid #ddd;
+}
+body {
+  background: linear-gradient(to top right, #f0faff, #e0f2ff);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
