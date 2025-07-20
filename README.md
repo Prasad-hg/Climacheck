@@ -60,11 +60,10 @@ npm start
 4. Build & Deploy to GitHub Pages
 
 npm run deploy
+
 🔑 API Used
 OpenWeatherMap API
-
 Free weather data API
-
 Sign up to get an API key: https://openweathermap.org/api
 
 
